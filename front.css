@@ -1,8 +1,8 @@
 body {
-    background-image:url("ing.jpg");
-    background-color: black;
+    background-image: url("chocbg.jpg");
+    background-color : #000000;
     background-repeat : no-repeat;
     background-attachment : fixed;
-    background-position:center; 
+    background-position: center; 
     background-size : auto;
   }
