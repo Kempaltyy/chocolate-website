@@ -1,8 +1,17 @@
 body {
-    background-image: url("chocbg.jpg");
+    background-image: url("chocback.jpg");
     background-color : #000000;
     background-repeat : no-repeat;
     background-attachment : fixed;
     background-position: center; 
-    background-size : auto;
+    background-size : cover;
+  }
+
+ 
+  div.container {
+    position: absolute;
+    top: 80px;
+    right: 50px;
+    width: 2500px;
+    height: 1000px;
   }
