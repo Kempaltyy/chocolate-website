@@ -1,0 +1,27 @@
+
+
+body {
+    background-image:url("ing.jpg");
+    background-color : #000000;
+    background-repeat : no-repeat;
+    background-attachment : fixed;
+    background-position: center; 
+    background-size : cover;
+  }
+
+  div.container {
+    position: absolute;
+    top: 200px;
+    right: 50px;
+    width: 2500px;
+    height: 1000px;
+  }
+
+  div.footer-container {
+    background-color: #000000;
+    position: absolute;
+    top: 950px;
+    size: cover;
+    width: 1300px;
+    height: 270px;
+  }
